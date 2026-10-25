@@ -1,4 +1,4 @@
-# 🌐 Facebook Web Clone
+# Facebook Web Clone
 
 [![React](https://img.shields.io/badge/React-18.3-blue.svg?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
@@ -11,61 +11,61 @@
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 Experience the live, interactive Facebook Clone in your browser:
 
-🚀 **[https://n0vemberain.github.io/facebook-clone/](https://n0vemberain.github.io/facebook-clone/)**
+**[https://n0vemberain.github.io/facebook-clone/](https://n0vemberain.github.io/facebook-clone/)**
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-### 1. 💬 Real-Time Interactive Messenger
+### 1. Real-Time Interactive Messenger
 - **Docked Floating Chat Windows:** Exactly like desktop Facebook, open multiple chat windows simultaneously docked at the bottom-right corner of the screen.
 - **Minimized Floating Chat Heads:** Collapse open chat boxes into floating circular avatar bubbles with unread count badges.
 - **Instant Messaging Engine:**
   - Send formatted text messages, photos, and emoji stickers.
-  - One-click **Facebook Blue Thumbs-Up (👍)** quick reply.
+  - One-click **Facebook Blue Thumbs-Up (Like)** quick reply.
   - **Synthesized Audio Chimes:** Real-time audio tones for incoming and outgoing messages powered by the HTML5 Web Audio API (no external audio assets required).
   - **Animated Typing Indicator:** Displays real-time typing status (`"... is typing"`).
   - **Simulated Interactive Replies:** Automated responses from friends for realistic testing.
 - **Full-Page Messenger View (`/messages`):** Dedicated three-column layout featuring conversation search, active chats list, chat history, shared media gallery, contact details, and simulated audio/video calling.
 
-### 2. 📰 News Feed & Post Creation
+### 2. News Feed & Post Creation
 - **Rich Post Creation Modal:**
-  - Audience Privacy Selector: 🌍 Public, 👥 Friends, 🔒 Only Me.
+  - Audience Privacy Selector: Public, Friends, Only Me.
   - **Iconic Facebook Colored Gradient Backgrounds:** Publish bold, centered status updates with customizable gradient themes.
-  - **Feeling & Activity Picker:** Express emotions and activities (😊 Happy, 🤩 Excited, 🍕 Eating, ✈️ Traveling, 🎉 Celebrating, 💻 Coding).
+  - **Feeling & Activity Picker:** Express emotions and activities (Happy, Excited, Eating, Traveling, Celebrating, Coding).
   - **Photo & Video Attachments:** Upload image attachments with live previews and removal controls.
 - **Authentic 7-Reaction Hover Bar:**
   - Hover or long-press the Like button to reveal animated Facebook reaction emojis with bounce transitions:
-    - 👍 **Like** (Classic Blue)
-    - ❤️ **Love** (Red heart with confetti effect)
-    - 🥰 **Care** (Warm hugging heart)
-    - 😆 **Haha** (Laughing)
-    - 😮 **Wow** (Surprised)
-    - 😢 **Sad** (Crying)
-    - 😡 **Angry** (Fiery orange-red)
+    - **Like** (Classic Blue)
+    - **Love** (Red heart with confetti effect)
+    - **Care** (Warm hugging heart)
+    - **Haha** (Laughing)
+    - **Wow** (Surprised)
+    - **Sad** (Crying)
+    - **Angry** (Fiery orange-red)
 - **Comments & Nested Replies:**
   - Threaded commenting with photo attachment support.
   - Like comments and post nested replies.
   - Delete own comments.
 - **Post Management Actions:** Save posts, copy direct post link, share to News Feed, share directly in Messenger, or delete posts.
 
-### 3. 📸 Facebook Stories
+### 3. Facebook Stories
 - **Horizontal Stories Carousel:** Responsive stories tray at the top of the feed with friend story cards.
 - **Full-Screen Interactive Story Viewer:**
   - Segmented progress bar with a 5-second automatic timer.
   - Pause playback on hold or touch.
   - Previous / Next story navigation controls.
-  - Quick reaction emojis (❤️, 🔥, 😮, 😂, 👏, 😢) with celebration particle effects.
+  - Quick reactions (Love, Fire, Wow, Haha, Clapping, Sad) with celebration particle effects.
   - Direct message reply composer within the story player.
 - **Create Story Modal:**
   - **Text Story:** Choose from vibrant background gradients and customized typography.
   - **Photo Story:** Upload custom photos with live crop preview.
 
-### 4. 👤 User Profiles & Multi-Account Switcher
+### 4. User Profiles & Multi-Account Switcher
 - **Comprehensive Profile Page:**
   - High-resolution Cover photo banner and 2XL avatar with update triggers.
   - Bio, Work, Education, Current City, Hometown, Relationship status, and Join date.
@@ -81,35 +81,35 @@ Experience the live, interactive Facebook Clone in your browser:
     6. **Alex Rivera** (`@alex_r`) — Fitness & Outdoor Adventurer
   - Switch accounts to test cross-user interactions: commenting, liking, sending friend requests, and bidirectional messaging.
 
-### 5. 🛒 Facebook Marketplace
+### 5. Facebook Marketplace
 - Grid showcase of listings with localized prices, item titles, and seller details.
 - Filter by categories: *Electronics, Sports & Outdoors, Furniture, Apparel*.
 - Product detail modal with image gallery and seller info.
 - **"Message Seller" Button:** Immediately opens a docked Messenger conversation with the seller prefilled with inquiry text.
 - **Create Listing Modal:** Publish custom listings with title, price, category, location, description, and image uploads.
 
-### 6. 📺 Facebook Watch (Video & Reels)
+### 6. Facebook Watch (Video & Reels)
 - Dedicated video feed with HTML5 video player, custom poster previews, and playback controls.
 - Channel metadata with verification checkmarks, follower counts, and follow actions.
 - Categorized feeds: *Home, Live, Reels, Saved*.
 - Full engagement toolbar with video reactions, comments, and sharing.
 
-### 7. 👥 Facebook Groups
+### 7. Facebook Groups
 - Explore, join, and participate in topic-based communities.
 - Dedicated group banners, privacy badges, member statistics, and descriptions.
 - Group feed with the ability to publish posts directly inside groups.
 
-### 8. 🔍 Global Search & 🔔 Notifications
+### 8. Global Search & Notifications
 - **Instant Global Search Modal:** Live search matching across People, Posts, Marketplace listings, and Groups with keyboard accessibility.
 - **Notifications Dropdown:** Real-time badge counter, unread filter tabs, interactive notification items, and "Mark all as read" functionality.
 
-### 9. 🌓 Native Dark & Light Mode
+### 9. Native Dark & Light Mode
 - Pixel-perfect theme toggle matching Facebook's official Dark Palette (`#18191A`, `#242526`, `#3A3B3C`) and Light Palette (`#F0F2F5`, `#FFFFFF`).
 - Persistent theme preference saved in `localStorage`.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Tool / Library | Purpose |
 |---|---|---|
@@ -124,7 +124,7 @@ Experience the live, interactive Facebook Clone in your browser:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 18 or higher recommended)
@@ -161,7 +161,7 @@ Experience the live, interactive Facebook Clone in your browser:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 facebook-clone/
@@ -204,7 +204,7 @@ facebook-clone/
 
 ---
 
-## 💡 Usage Tips
+## Usage Tips
 
 - **Testing Multi-User Messaging:** Click the **"Switch User"** pill in the top navigation bar to change profiles. Send a message to another user, then switch to their account to view and continue the conversation!
 - **Reaction Bar:** Hover over the **Like** button on any post to trigger the animated 7-reaction popup. Choosing **Love** or **Care** triggers a celebratory confetti burst.
@@ -212,7 +212,7 @@ facebook-clone/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
