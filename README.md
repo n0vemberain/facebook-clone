@@ -11,7 +11,7 @@
 
 ---
 
-## 🔗 Live Demo (সরাসরি ব্যবহারের লিঙ্ক)
+## 🔗 Live Demo
 
 Experience the live, interactive Facebook Clone in your browser:
 
