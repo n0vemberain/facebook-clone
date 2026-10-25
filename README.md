@@ -4,9 +4,18 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF.svg?logo=vite)](https://vitejs.dev/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Active-brightgreen.svg?logo=github)](https://n0vemberain.github.io/facebook-clone/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > An authentic, pixel-perfect Facebook Web Clone built from scratch with **React 18**, **TypeScript**, and **Tailwind CSS**. Features real-time interactive messaging, docked floating chat heads, animated 7-reaction hover bar, stories carousel & full-screen viewer, user profiles with account switcher, marketplace with direct seller messaging, video feeds (Watch), groups, notifications, and native dark/light mode.
+
+---
+
+## 🔗 Live Demo (সরাসরি ব্যবহারের লিঙ্ক)
+
+Experience the live, interactive Facebook Clone in your browser:
+
+🚀 **[https://n0vemberain.github.io/facebook-clone/](https://n0vemberain.github.io/facebook-clone/)**
 
 ---
 
